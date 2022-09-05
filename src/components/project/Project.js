@@ -36,7 +36,7 @@ const Project = () => {
                     <div className="center">An API - (Thirukkural) built in DOM where users can get all thirukkural
                         in tamil, english and its meaning.</div>
                     <div className="bottom">
-                        <a href="https://peaceful-mandazi-5cff6f.netlify.app" target="_blank" rel="noreferrer" className="a-tag">
+                        <a href="https://app.netlify.com/sites/roaring-ganache-d349b7/overview" target="_blank" rel="noreferrer" className="a-tag">
                             <button className="view-project">View</button>
                         </a>
 
