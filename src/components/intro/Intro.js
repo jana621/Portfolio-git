@@ -24,7 +24,7 @@ const Intro = () => {
             and back end operations.
           </p>
           <div className="div-resume">
-          <a href="https://drive.google.com/file/d/16qV5jU2U_kBu1y2qn0_VTlqcySWjaZCi/view?usp=drivesdk" rel="noreferrer" target="_blank">
+          <a href="https://drive.google.com/file/d/196hv885Is2nbptFLafpzF2ga1cfg4Kx7/view?usp=drivesdk" rel="noreferrer" target="_blank">
           <button className="btn-resume">Resume</button>
           </a>
           </div>
